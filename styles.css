@@ -1,0 +1,91 @@
+.IDAF {
+
+padding:2%;
+margin: 2%;
+width: 180px;
+
+}
+
+/*Titres Paragraphes Listes*/
+.tpl {
+    color:rgb(102,51,153);
+    text-decoration:underline;
+    font-size:10px;
+  }
+  /*Titres important*/
+  .ti{
+    color:red;
+    font-size:15px;
+    font-weight: bold;
+    
+  }
+  /*Titres un peu moins important*/
+  .tpmi {
+    color: blue;
+    font-size:20px;
+    font-weight: bold;
+  }
+  /*Titres pas trop important*/
+  .tpti{
+    color: green;
+    font-size:15px;
+    font-weight: bold;
+  }
+  /*Titres pas important*/
+  .tpi{
+    color: rgb(205,92,92);
+    font-size:10px;
+    font-weight: bold;
+    
+  }
+  /*Titres vraiment pas important du tout*/
+  
+  .tvpi{
+    color : rgb(0,0,0);
+    font-size:8px;
+    font-weight: bold;
+    
+  }
+
+  .line1 {
+    border: 1px solid rgb(146, 138, 138);
+    width: 100%;     
+  }
+
+  .p1{
+      font-size: 20px;
+  }
+
+  .p2{
+    font-size: 10px;
+    text-align: center;
+    margin-right: 1000px;
+    line-height: 0.1;
+  }
+
+.p3{
+    font-size: 10px;
+    margin-left: 60px;
+    line-height: 0.1;
+}
+
+.p4 {
+    font-size: 10px;
+    margin-left: 60px;
+    
+}
+.p5 {
+    font-size: 10px;
+    margin-left: 60px;
+    line-height: 0.1;
+}
+
+.HCJ {
+    font-size: 20px;
+    background-color: rgb(228, 104, 104);
+
+}
+
+.pic {
+    width: 100px;
+}
